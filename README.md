@@ -62,7 +62,7 @@ fpga-signal-filter/
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/fpga-signal-filter.git
+git clone https://github.com/Hayder-IRAQ/fpga-signal-filter.git
 cd fpga-signal-filter
 pip install -r requirements.txt
 pip install -e .
